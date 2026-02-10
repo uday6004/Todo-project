@@ -1,3 +1,3 @@
 # Todo-project
-how js talks to html
-its abou simple front end project
+how js talks to html <br>
+its about simple front end project
